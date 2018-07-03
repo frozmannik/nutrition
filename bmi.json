@@ -1,0 +1,34 @@
+{
+    "Andreas Papadopoluos": [
+      {
+        "gender": true,
+        "height": 165,
+        "weight": 67,
+        "age": 33
+      }
+    ],
+    "Gubenkov Nikita": [
+      {
+        "gender" : false,
+        "height" : 193,
+        "weight" : 87,
+        "age" : 24
+      }
+    ],
+    "Nikita Gubenkov": [
+      {
+        "gender" : true,
+        "height" : 193,
+        "weight" : 88,
+        "age" : 24
+      }
+    ],
+    "Roufas Konstantinos": [
+      {
+        "gender" : true,
+        "height" : 170,
+        "weight" : 78,
+        "age" : 33
+      }
+    ]
+}
