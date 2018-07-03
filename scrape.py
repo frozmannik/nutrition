@@ -4,7 +4,7 @@ import json
 from diets import get_diets, write_data
 
 
-token = 'EAADdpT8BHSUBAJd0ZCQsZBFZBEZBgU2sg1ZAaCWLI7f6UrM7soqCTyTiFcvbvu2m3WKyRTikWT3Nkp3B0RPmxTyUSACURZBC5yTFjMREjdnjKOD4YL3n2en4bcZAukB9Hk0pdJX6hCItuBHCso0agxkMVFThG9ya4jX1Fu8ZBqOurhG51zfUbdJ7w1rVFnEwGQ4ZD'
+token = ''
 
 graph = facebook.GraphAPI(token)
 
